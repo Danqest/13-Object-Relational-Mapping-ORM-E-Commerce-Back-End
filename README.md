@@ -7,5 +7,5 @@ The backend first creates the database using MySQL schema files, utilized Sequel
 The Insomnia program demonstrates GET, POST, PUT, and DELETE routes to return categories, products, and tags. All of the routes were created in javascript.
 
 A two-part walkthrough video can be located at:
-Part 1 - https://drive.google.com/file/d/1vAJDu66lGDstN-3OWpIBgDjSBLA_LsPM/view
-Part 2 - https://drive.google.com/file/d/1-zN3MynncmjvAcJH6tZdIIWotS7ooWei/view
+- Part 1 - https://drive.google.com/file/d/1vAJDu66lGDstN-3OWpIBgDjSBLA_LsPM/view
+- Part 2 - https://drive.google.com/file/d/1-zN3MynncmjvAcJH6tZdIIWotS7ooWei/view
