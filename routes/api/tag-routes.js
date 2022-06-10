@@ -43,12 +43,12 @@ router.post('/', (req, res) => {
   }
 });
 
-router.put('/:id', (req, res) => {
+router.put('/:id', async (req, res) => {
   // update a tag's name by its `id` value
   Tag.update(
     {
       id: req.body.id,
-      category_name: req.body.tag_name
+      tag_name: req.body.tag_name
     },
     {
       // Gets the tag based on the id given in the request parameters
